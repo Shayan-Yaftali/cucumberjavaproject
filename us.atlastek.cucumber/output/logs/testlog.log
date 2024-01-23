@@ -1,0 +1,7 @@
+2022-12-06 13:22:06,897 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-06 13:22:13,476 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2023-11-21 23:17:24,607 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2023-11-21 23:19:06,848 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2023-11-21 23:19:39,910 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME FAILED
+2023-11-21 23:20:23,300 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2023-11-21 23:22:28,672 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
